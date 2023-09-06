@@ -1,0 +1,16 @@
+{
+    "name": "Playables.Localization",
+    "references": [
+        "Playables.Csv",
+        "Playables.Math",
+        "Playables.SystemFramework"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
